@@ -1,0 +1,9 @@
+Package: com.ahmad.pslide
+Name: PSlide
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Replace "slide to unlock" with Persian date 
+Maintainer: Ahmad
+Author: Ahmad
+Section: Tweaks
