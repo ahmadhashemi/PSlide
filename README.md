@@ -1,3 +1,3 @@
 # PSlide
 
-An iOS tweak to repalce "slide to unlock" message in locksreen with today's date in Persian
+An iOS tweak to replace "slide to unlock" message in lockscreen with today's date in Persian
